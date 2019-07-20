@@ -11,7 +11,7 @@
 | Conceitos do Redux       |     :white_check_mark:     |
 | Estrutura do projeto     |     :white_check_mark:     |
 | Configurando rotas       |     :white_check_mark:     |
-| Estilos globais          | :eight_pointed_black_star: |
+| Estilos globais          |     :white_check_mark:     |
 | Criando Header           | :eight_pointed_black_star: |
 | Estilização da Home      | :eight_pointed_black_star: |
 | Estilização do Carrinho  | :eight_pointed_black_star: |
