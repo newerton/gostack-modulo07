@@ -13,7 +13,7 @@
 | Configurando rotas       |     :white_check_mark:     |
 | Estilos globais          |     :white_check_mark:     |
 | Criando Header           |     :white_check_mark:     |
-| Estilização da Home      | :eight_pointed_black_star: |
+| Estilização da Home      |     :white_check_mark:     |
 | Estilização do Carrinho  | :eight_pointed_black_star: |
 | Configurando API         | :eight_pointed_black_star: |
 | Buscando produtos da API | :eight_pointed_black_star: |
