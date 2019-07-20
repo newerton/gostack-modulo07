@@ -8,8 +8,8 @@
 
 | Aulas                    |            Done            |
 | ------------------------ | :------------------------: |
-| Conceitos do Redux       | :eight_pointed_black_star: |
-| Estrutura do projeto     | :eight_pointed_black_star: |
+| Conceitos do Redux       |     :white_check_mark:     |
+| Estrutura do projeto     |     :white_check_mark:     |
 | Configurando rotas       | :eight_pointed_black_star: |
 | Estilos globais          | :eight_pointed_black_star: |
 | Criando Header           | :eight_pointed_black_star: |
