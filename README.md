@@ -14,7 +14,7 @@
 | Estilos globais          |     :white_check_mark:     |
 | Criando Header           |     :white_check_mark:     |
 | Estilização da Home      |     :white_check_mark:     |
-| Estilização do Carrinho  | :eight_pointed_black_star: |
+| Estilização do Carrinho  |     :white_check_mark:     |
 | Configurando API         | :eight_pointed_black_star: |
 | Buscando produtos da API | :eight_pointed_black_star: |
 | Configurando o Redux     | :eight_pointed_black_star: |
