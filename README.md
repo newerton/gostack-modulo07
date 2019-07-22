@@ -18,7 +18,7 @@
 | Configurando API         |     :white_check_mark:     |
 | Buscando produtos da API |     :white_check_mark:     |
 | Configurando o Redux     |     :white_check_mark:     |
-| Adicionando ao carrinho  | :eight_pointed_black_star: |
+| Adicionando ao carrinho  |     :white_check_mark:     |
 | Reactotron + Redux       | :eight_pointed_black_star: |
 | Listando no carrinho     | :eight_pointed_black_star: |
 | Produto duplicado        | :eight_pointed_black_star: |
