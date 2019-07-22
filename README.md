@@ -16,7 +16,7 @@
 | Estilização da Home      |     :white_check_mark:     |
 | Estilização do Carrinho  |     :white_check_mark:     |
 | Configurando API         |     :white_check_mark:     |
-| Buscando produtos da API | :eight_pointed_black_star: |
+| Buscando produtos da API |     :white_check_mark:     |
 | Configurando o Redux     | :eight_pointed_black_star: |
 | Adicionando ao carrinho  | :eight_pointed_black_star: |
 | Reactotron + Redux       | :eight_pointed_black_star: |
