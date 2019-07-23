@@ -23,7 +23,7 @@
 | Listando no carrinho     |     :white_check_mark:     |
 | Produto duplicado        |     :white_check_mark:     |
 | Remover produto          |     :white_check_mark:     |
-| Refatorando as actions   | :eight_pointed_black_star: |
+| Refatorando as actions   |     :white_check_mark:     |
 | Alterando quantidade     | :eight_pointed_black_star: |
 | Calculando totais        | :eight_pointed_black_star: |
 | Exibindo quantidades     | :eight_pointed_black_star: |
