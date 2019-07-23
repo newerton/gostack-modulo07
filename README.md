@@ -27,7 +27,7 @@
 | Alterando quantidade     |     :white_check_mark:     |
 | Calculando totais        |     :white_check_mark:     |
 | Exibindo quantidades     |     :white_check_mark:     |
-| Configurando Redux Saga  | :eight_pointed_black_star: |
+| Configurando Redux Saga  |     :white_check_mark:     |
 | Reactotron + Saga        | :eight_pointed_black_star: |
 | Separando actions        | :eight_pointed_black_star: |
 | Estoque na adição        | :eight_pointed_black_star: |
