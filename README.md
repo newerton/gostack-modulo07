@@ -22,7 +22,7 @@
 | Reactotron + Redux       |     :white_check_mark:     |
 | Listando no carrinho     |     :white_check_mark:     |
 | Produto duplicado        |     :white_check_mark:     |
-| Remover produto          | :eight_pointed_black_star: |
+| Remover produto          |     :white_check_mark:     |
 | Refatorando as actions   | :eight_pointed_black_star: |
 | Alterando quantidade     | :eight_pointed_black_star: |
 | Calculando totais        | :eight_pointed_black_star: |
