@@ -21,7 +21,7 @@
 | Adicionando ao carrinho  |     :white_check_mark:     |
 | Reactotron + Redux       |     :white_check_mark:     |
 | Listando no carrinho     |     :white_check_mark:     |
-| Produto duplicado        | :eight_pointed_black_star: |
+| Produto duplicado        |     :white_check_mark:     |
 | Remover produto          | :eight_pointed_black_star: |
 | Refatorando as actions   | :eight_pointed_black_star: |
 | Alterando quantidade     | :eight_pointed_black_star: |
