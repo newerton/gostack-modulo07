@@ -24,7 +24,7 @@
 | Produto duplicado        |     :white_check_mark:     |
 | Remover produto          |     :white_check_mark:     |
 | Refatorando as actions   |     :white_check_mark:     |
-| Alterando quantidade     | :eight_pointed_black_star: |
+| Alterando quantidade     |     :white_check_mark:     |
 | Calculando totais        | :eight_pointed_black_star: |
 | Exibindo quantidades     | :eight_pointed_black_star: |
 | Configurando Redux Saga  | :eight_pointed_black_star: |
