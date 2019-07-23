@@ -20,7 +20,7 @@
 | Configurando o Redux     |     :white_check_mark:     |
 | Adicionando ao carrinho  |     :white_check_mark:     |
 | Reactotron + Redux       |     :white_check_mark:     |
-| Listando no carrinho     | :eight_pointed_black_star: |
+| Listando no carrinho     |     :white_check_mark:     |
 | Produto duplicado        | :eight_pointed_black_star: |
 | Remover produto          | :eight_pointed_black_star: |
 | Refatorando as actions   | :eight_pointed_black_star: |
