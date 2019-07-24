@@ -29,7 +29,7 @@
 | Exibindo quantidades     |     :white_check_mark:     |
 | Configurando Redux Saga  |     :white_check_mark:     |
 | Reactotron + Saga        |     :white_check_mark:     |
-| Separando actions        | :eight_pointed_black_star: |
+| Separando actions        |     :white_check_mark:     |
 | Estoque na adição        | :eight_pointed_black_star: |
 | React Toastify           | :eight_pointed_black_star: |
 | Estoque na alteração     | :eight_pointed_black_star: |
