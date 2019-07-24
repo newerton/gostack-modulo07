@@ -6,31 +6,31 @@
 
 # ReactJS - E-commerce
 
-| Aulas                    |            Done            |
-| ------------------------ | :------------------------: |
-| Conceitos do Redux       |     :white_check_mark:     |
-| Estrutura do projeto     |     :white_check_mark:     |
-| Configurando rotas       |     :white_check_mark:     |
-| Estilos globais          |     :white_check_mark:     |
-| Criando Header           |     :white_check_mark:     |
-| Estilização da Home      |     :white_check_mark:     |
-| Estilização do Carrinho  |     :white_check_mark:     |
-| Configurando API         |     :white_check_mark:     |
-| Buscando produtos da API |     :white_check_mark:     |
-| Configurando o Redux     |     :white_check_mark:     |
-| Adicionando ao carrinho  |     :white_check_mark:     |
-| Reactotron + Redux       |     :white_check_mark:     |
-| Listando no carrinho     |     :white_check_mark:     |
-| Produto duplicado        |     :white_check_mark:     |
-| Remover produto          |     :white_check_mark:     |
-| Refatorando as actions   |     :white_check_mark:     |
-| Alterando quantidade     |     :white_check_mark:     |
-| Calculando totais        |     :white_check_mark:     |
-| Exibindo quantidades     |     :white_check_mark:     |
-| Configurando Redux Saga  |     :white_check_mark:     |
-| Reactotron + Saga        |     :white_check_mark:     |
-| Separando actions        |     :white_check_mark:     |
-| Estoque na adição        |     :white_check_mark:     |
-| React Toastify           |     :white_check_mark:     |
-| Estoque na alteração     |     :white_check_mark:     |
-| Navegando no Saga        | :eight_pointed_black_star: |
+| Aulas                    |        Done        |
+| ------------------------ | :----------------: |
+| Conceitos do Redux       | :white_check_mark: |
+| Estrutura do projeto     | :white_check_mark: |
+| Configurando rotas       | :white_check_mark: |
+| Estilos globais          | :white_check_mark: |
+| Criando Header           | :white_check_mark: |
+| Estilização da Home      | :white_check_mark: |
+| Estilização do Carrinho  | :white_check_mark: |
+| Configurando API         | :white_check_mark: |
+| Buscando produtos da API | :white_check_mark: |
+| Configurando o Redux     | :white_check_mark: |
+| Adicionando ao carrinho  | :white_check_mark: |
+| Reactotron + Redux       | :white_check_mark: |
+| Listando no carrinho     | :white_check_mark: |
+| Produto duplicado        | :white_check_mark: |
+| Remover produto          | :white_check_mark: |
+| Refatorando as actions   | :white_check_mark: |
+| Alterando quantidade     | :white_check_mark: |
+| Calculando totais        | :white_check_mark: |
+| Exibindo quantidades     | :white_check_mark: |
+| Configurando Redux Saga  | :white_check_mark: |
+| Reactotron + Saga        | :white_check_mark: |
+| Separando actions        | :white_check_mark: |
+| Estoque na adição        | :white_check_mark: |
+| React Toastify           | :white_check_mark: |
+| Estoque na alteração     | :white_check_mark: |
+| Navegando no Saga        | :white_check_mark: |
