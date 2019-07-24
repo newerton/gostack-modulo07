@@ -32,5 +32,5 @@
 | Separando actions        |     :white_check_mark:     |
 | Estoque na adição        |     :white_check_mark:     |
 | React Toastify           |     :white_check_mark:     |
-| Estoque na alteração     | :eight_pointed_black_star: |
+| Estoque na alteração     |     :white_check_mark:     |
 | Navegando no Saga        | :eight_pointed_black_star: |
