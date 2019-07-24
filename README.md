@@ -31,6 +31,6 @@
 | Reactotron + Saga        |     :white_check_mark:     |
 | Separando actions        |     :white_check_mark:     |
 | Estoque na adição        |     :white_check_mark:     |
-| React Toastify           | :eight_pointed_black_star: |
+| React Toastify           |     :white_check_mark:     |
 | Estoque na alteração     | :eight_pointed_black_star: |
 | Navegando no Saga        | :eight_pointed_black_star: |
