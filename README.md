@@ -35,11 +35,11 @@
 | Estoque na alteração     | :white_check_mark: |
 | Navegando no Saga        | :white_check_mark: |
 
-### Módulo 08
+### Módulo 08 - React Hooks
 
 [https://github.com/newerton/gostack-modulo08](https://github.com/newerton/gostack-modulo08)
 
-| Aulas              | Done                       |
-| ------------------ | -------------------------- |
-| Convertendo classe | :eight_pointed_black_star: |
+| Aulas              |            Done            |
+| ------------------ | :------------------------: |
+| Convertendo classe |     :white_check_mark:     |
 | Hooks com Redux    | :eight_pointed_black_star: |
