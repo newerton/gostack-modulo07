@@ -39,7 +39,7 @@
 
 [https://github.com/newerton/gostack-modulo08](https://github.com/newerton/gostack-modulo08)
 
-| Aulas              |            Done            |
-| ------------------ | :------------------------: |
-| Convertendo classe |     :white_check_mark:     |
-| Hooks com Redux    | :eight_pointed_black_star: |
+| Aulas              |        Done        |
+| ------------------ | :----------------: |
+| Convertendo classe | :white_check_mark: |
+| Hooks com Redux    | :white_check_mark: |
