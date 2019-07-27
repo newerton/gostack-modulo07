@@ -34,3 +34,12 @@
 | React Toastify           | :white_check_mark: |
 | Estoque na alteração     | :white_check_mark: |
 | Navegando no Saga        | :white_check_mark: |
+
+### Módulo 08
+
+[https://github.com/newerton/gostack-modulo08](https://github.com/newerton/gostack-modulo08)
+
+| Aulas              | Done                       |
+| ------------------ | -------------------------- |
+| Convertendo classe | :eight_pointed_black_star: |
+| Hooks com Redux    | :eight_pointed_black_star: |
