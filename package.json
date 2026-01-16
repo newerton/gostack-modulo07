@@ -21,7 +21,7 @@
     "reactotron-redux": "^3.2.1",
     "redux": "^5.0.1",
     "redux-saga": "^1.4.2",
-    "styled-components": "^6.0.7"
+    "styled-components": "^6.3.8"
   },
   "scripts": {
     "start": "react-scripts start",
