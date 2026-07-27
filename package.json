@@ -20,7 +20,7 @@
     "reactotron-react-js": "^3.3.17",
     "reactotron-redux": "^3.2.1",
     "redux": "^5.0.1",
-    "redux-saga": "^1.5.0",
+    "redux-saga": "^1.5.1",
     "styled-components": "^6.4.4"
   },
   "scripts": {
